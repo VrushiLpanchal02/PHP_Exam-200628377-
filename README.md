@@ -106,11 +106,4 @@ Your solution must:
 
 Submit the **GitHub repository link** as your answer to the question on Blackboard. 
 
-**## Setup
-1. XAMPP Apache/MySQL
-2. phpMyAdmin → Import reviews.sql to comp1006_reviews DB
-3. Update config.php creds
-4. localhost/book-reviews/index.php**
-
-
 **Total - 25 marks**
